@@ -17,7 +17,7 @@ void draw()
     starfieldBob[0] = new OddBallParticle();
   }
   fill(255);
-  rect(20,240,165,10);
+  rect(20,240,150,10);
   fill(0);
   text("click to see a sun explosion!",20,250);
 }
